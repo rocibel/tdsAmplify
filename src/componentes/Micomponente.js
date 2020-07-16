@@ -1,7 +1,7 @@
 //componentes de clase
 import React from 'react';
 import exerciseImg from '../img/exercise.png'
-import './styles/Micomponente.css'
+import '../styles/Micomponente.css'
 
 
 class Micomponente extends React.Component {
