@@ -7,7 +7,7 @@ class Micomponente extends React.Component{
 
     render(){
         return(
-            
+            <div>
                         <div >
                             <img src={exerciseImg}/>
                         </div>
@@ -15,7 +15,7 @@ class Micomponente extends React.Component{
                              <h1> Hola </h1>
                              <p> Learn</p>
                         </div>
-                  
+                        </div>
         
          
     
