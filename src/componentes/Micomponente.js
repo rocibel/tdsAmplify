@@ -1,11 +1,21 @@
 //componentes de clase
 import React from 'react';
+import exerciseImg from '../img/animado'
 
 class Micomponente extends React.Component{
 
     render(){
         return(
-            <h1> Hola LLamo al MiComponente nuevo</h1>
+            <div>
+                <div>
+                    <img src={exerciseImg}/>
+                </div>
+                <div>
+                <h1> Hola </h1>
+                <p> Learn</p>
+                </div>
+            </div>
+            
     
         );
     }
