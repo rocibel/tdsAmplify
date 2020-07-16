@@ -7,7 +7,7 @@ class Micomponente extends React.Component{
 
     render(){
         return(
-            <div className="card mx-auto Fitness-Card">
+            <div >
                 <div className="card-body">
                     <div className="row center">
                         <div div className="col">
