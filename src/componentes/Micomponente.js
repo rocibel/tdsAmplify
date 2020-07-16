@@ -1,5 +1,5 @@
 //componentes de clase
-import React,{Component} from 'react';
+import React from 'react';
 
 class Micomponente extends React.Component{
 

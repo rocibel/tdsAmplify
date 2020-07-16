@@ -6,4 +6,4 @@ import Micomponente from './componentes/Micomponente'
 
 const container =document.getElementById('root')
 
-container.render(<Micomponente/>,container)
+ReactDOM.render(<Micomponente/>,container)
