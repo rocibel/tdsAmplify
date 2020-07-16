@@ -1,13 +1,13 @@
 //componentes de clase
 import React from 'react';
-import exerciseImg from '../img/animado.jpg'
+import exerciseImg from '../img/exercise.png'
 import './styles/Micomponente.css'
 
 class Micomponente extends React.Component{
 
     render(){
         return(
-            <div >
+            <div className="card mx-auto Fitness-Card">
                 <div className="card-body">
                     <div className="row center">
                         <div div className="col">
@@ -23,7 +23,7 @@ class Micomponente extends React.Component{
         
          
     
-        );
+        )
     }
 }
 export default Micomponente;
