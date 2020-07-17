@@ -2,7 +2,7 @@
 import React from 'react';
 import exerciseImg from '../img/exercise.png'
 import circles from '../img/circles.png'
-//import './styles/Micomponente.css'
+import './styles/Micomponente.css'
 
 
 
@@ -13,6 +13,7 @@ class Micomponente extends React.Component {
             <div className="card mx-auto Fitness-card"
             style={{
                 backgroundImage:`url(${circles}),linear-gradient(to right, #A74CF2, #617BFB)`
+            
             }}
             >
                 <div className="card-body">
