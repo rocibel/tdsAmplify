@@ -1,14 +1,14 @@
 //componentes de clase
 import React from 'react';
 import exerciseImg from '../img/exercise.png'
-import '../styles/Micomponente.css'
+
 
 
 class Micomponente extends React.Component {
 
     render() {
         return (
-            <div className="card mx-auto Fitness-Card"> 
+            <div> 
                 <div >
                     <img src={exerciseImg} />
                 </div>
