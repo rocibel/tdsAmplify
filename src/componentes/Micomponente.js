@@ -15,6 +15,7 @@ class Micomponente extends React.Component {
                 <div>
                     <h1> Hola </h1>
                     <p> Learn</p>
+                    <p> Learn</p>
                 </div>
             </div>
 
