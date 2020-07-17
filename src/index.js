@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import Micomponente from './componentes/Micomponente'
+import 'bootstrap/dist/css/bootstrap.css'
 
 
 
