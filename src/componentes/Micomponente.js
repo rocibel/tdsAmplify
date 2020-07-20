@@ -2,7 +2,7 @@
 import React from 'react';
 import exerciseImg from '../img/exercise.png'
 import circles from '../img/circles.png'
-import './styles/Micomponente.css'
+//import './styles/Micomponente.css'
 
 
 
