@@ -7,4 +7,4 @@ import 'bootstrap/dist/css/bootstrap.css'
 
 const container =document.getElementById('root')
 
-ReactDOM.render(<Ejercicio></Ejercicio>,container)
+ReactDOM.render(<Ejercicio/>,container)
