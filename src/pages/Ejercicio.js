@@ -3,7 +3,7 @@ import Micomponente from '../componentes/Micomponente'
 import Welcome from '../componentes/Welcome'
 
 
-class Ejercicio extends ReactComponent {
+class Ejercicio extends React.Component {
 
     render() {
         return (
